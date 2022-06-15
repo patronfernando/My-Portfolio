@@ -11,5 +11,5 @@ You will find different types of projects, from games, to TV series prediction m
 | Patron_Fernando_A1_Regression_Analysis.ipynb  | Birthweight Regression Analysis  |  Machine Learning  |  In this project I analyzed which were the factors that influenced the birthweight and in what proportion they can impact either positively or negatively.
 |  Team_6_A2_Analysis.ipynb  |  Unsupervised Learning Analysis: Mobile App Research Survey | Machine Learning  |  The goal of this project was to analyze and interpret an unsupervised learning problem based on survey data about consumer behavior towards app usage.
 |  The Vortex.ipynb  | The Vortex: A Text Adventure Game  |  Data Science: Python  | This was my first project I ever crated in my masters. It's about a text adventure game where the player needs to make certain decisions to finish and win the game.
-
+| Mad Libs - Team Assignment.ipynb  |  Mad Libs Introduction  |  Data Science: Python  | This was my first team project in the masters. The purpose of it was to create a Mad Libs where the user would fill in the blanks to give the narrative to the story. The result is usually quite funny.
 
